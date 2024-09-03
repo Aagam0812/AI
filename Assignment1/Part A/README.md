@@ -18,7 +18,7 @@ In this part of the assignment, you'll be working on summarizing a long, state-o
 - **Video Link**: [Unlocking the Potential of Generative AI](https://www.youtube.com/watch?v=hHnvo4f35GA&t=4s)
 - **Medium Article**: [Read the Article on Medium](https://medium.com/@aagamshah0812/unlocking-the-potential-of-generative-ai-a-comprehensive-guide-a724cfda9438)
 - **LaTeX Slideshow**: Video_Summary_Presentation.pdf
-- **Demo Video**: A walkthrough video demonstrating the entire process.
+- **Demo Video**: [A walkthrough video demonstrating the entire process](https://drive.google.com/file/d/1eQE6OBEz78vO1S7gILAT4VnZbG6BFuuX/view?usp=sharing)
 - **Transcript**: Transcribe_video.pdf
 - **Summary**: CMPE297_Video_Summary.pdf
 ---
