@@ -12,6 +12,7 @@ This project showcases various coding techniques and best practices using Claude
 - `utils.py`: Includes utility functions for various mathematical operations.
 - `test_utils.py`: Contains unit tests for the utility functions.
 - `README.md`: This file, providing an overview of the project.
+- `Images/`: Folder containing screenshots of the 10 use cases.
 
 ## 💡 Use Cases Demonstrated
 
@@ -26,18 +27,24 @@ This project showcases various coding techniques and best practices using Claude
 9. **Code Linting** 🧹: Performed linting on `main.py` and made improvements.
 10. **Code Review** 👀: Conducted a thorough code review of `utils.py` and implemented suggested improvements.
 
-## 🚀 How to Run
+## 🎥 Demo Video
 
-To run the main script:
+Check out our demo video to see Claude-Dev Extensions in action: [Watch Demo](https://drive.google.com/file/d/1FqOJnLX1piKPS7OpqaUEpaNucjMauw0H/view?usp=sharing)
 
-```bash
-python main.py
-```
+## 📸 Screenshots
 
-To run the tests:
+We've included screenshots for each of the 10 use cases demonstrated in this project. You can find them in the `Images/` folder:
 
-```bash
-python -m unittest test_utils.py
-```
+1. [Code Refactoring](Images/1.png)
+2. [Adding Comments](Images/2.png)
+3. [Code Generation](Images/3.png)
+4. [Autocomplete](Images/4.png)
+5. [Code Analysis and Suggestions](Images/5.png)
+6. [Error Handling](Images/6.png)
+7. [Test Case Generation](Images/7.png)
+8. [Code Documentation](Images/8.png)
+9. [Code Linting](Images/9.png)
+10. [Code Review](Images/10.png)
+
 
 Happy coding! 💻✨
