@@ -35,18 +35,12 @@ In this repository, we've curated a set of Google Colab notebooks and resources 
 - Run LLMs locally using Ollama.
 - Utilize Dify.ai for advanced workflows.
 
-All tasks are demonstrated using **smaller models** like **Gemma 2B quantized** to ensure smooth execution on available resources. Let's embark on this exciting journey! 🚀
+---
+
+**Access all the videos Demo [here](https://drive.google.com/drive/folders/1zMOjqVjJwiUI6F614NnQ7MVZidUssZlT?usp=sharing).**
 
 ---
 
-## Prerequisites
-
-- Google Account for Colab access.
-- Hugging Face account and API token 🔑.
-- Basic knowledge of Python and machine learning.
-- A laptop capable of running LLMs for local tasks.
-
----
 
 ## Task A: LLama-Factory 🦙
 
@@ -106,8 +100,4 @@ Utilize Dify.ai to demonstrate advanced workflows, including:
 - Observability Tools
 - Local Deployment
 
----
 
-**Access the videos [here](#).**
-
----
