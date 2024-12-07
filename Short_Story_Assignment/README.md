@@ -44,7 +44,7 @@ The paper examines how LLMs transform multimodal content generation by serving a
 
 ## 🔗 Resources
 - [📄 Full Paper](https://arxiv.org/pdf/2405.19334)
-- [📊 Presentation Slides](coming_soon)
+- [📊 Presentation Slides](https://www.slideshare.net/slideshow/multimodel_llm_for_content_generation-pptx/273888803)
 - [📝 Medium Article](https://medium.com/@aagamshah0812/the-role-of-large-language-models-in-multimodal-content-generation-and-editing-a-new-frontier-09dd592f5081)
 - [🎥 Video Demo]()
 
