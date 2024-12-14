@@ -37,7 +37,7 @@ This project involves the following key tasks:
    - Use **RelBench** to train a Graph Neural Network (GNN) for a tabular prediction task. Colab demonstration includes metrics to understand model performance.
 
 ## 🎥 Video Presentation
-- Video Demo link - [Click Here]()
+- Video Demo link - [Click Here](https://drive.google.com/drive/folders/1fdEn6kg4crt0iUVzFMA49PMFYlXaLPYJ?usp=sharing)
 
 
 ## ✨ Project Highlights
