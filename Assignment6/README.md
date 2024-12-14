@@ -15,21 +15,9 @@ This project consists of two primary tasks:
 
 2. **Textbooks Are All You Need**:
    - Implement the "Textbooks Are All You Need" case study using your own dataset 📖.
-   - Leverage the resources provided by [Jina AI's GitHub repository](https://github.com/jina-ai/textbook) and associated research materials.
 
 ---
 
-## 🎯 **Deliverables**
-1. **NanoGPT Implementation**:
-   - Colab Notebook.
-   - Medium article explaining the code.
-   - Input and output files.
-   - A 10-minute presentation covering the implementation.
+## **Demo Video**
 
-2. **Textbooks Are All You Need**:
-   - Full Colab Notebook.
-   - Input and output files.
-   - Documented analysis and results.
-
----
-
+   [Demo Video](https://drive.google.com/drive/folders/13l_K_v4Hx2Gg4ZgLhkMK9JIj32ATrSa-?usp=sharing)
