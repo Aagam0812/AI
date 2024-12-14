@@ -2,6 +2,9 @@
 
 This project demonstrates a comprehensive end-to-end Large Language Model (LLM) Operations workflow. It showcases best practices in building and deploying GenAI applications, including data preparation, model training, deployment, monitoring, and user interaction.
 
+# Demo Video
+  [Drive link](https://drive.google.com/drive/folders/1dCZ5Gw3OuPJOUU467JhJ6Iv_5UvYh-qT?usp=sharing)
+
 ## Features
 
 ### 1. Data Pipeline
