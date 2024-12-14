@@ -1,0 +1,5 @@
+2024-12-14 10:44:22,410 - app.services.model_service - INFO - Loading model: bert-base-uncased
+2024-12-14 10:44:34,579 - app.services.model_service - INFO - Model loaded successfully in 12.17 seconds
+2024-12-14 10:44:34,739 - app.main - INFO - Prometheus metrics server started on port 9090
+2024-12-14 10:44:34,740 - app.main - INFO - LLM Ops Demo application started successfully
+2024-12-14 10:54:25,973 - app.main - INFO - Shutting down LLM Ops Demo application
